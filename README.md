@@ -1,6 +1,6 @@
-######本文采用UITableView+FDTemplateLayoutCell和UIView+FDCollapsibleConstraints 完成
+本文采用UITableView+FDTemplateLayoutCell和UIView+FDCollapsibleConstraints 完成
 做好了autolayout你就完成了项目的90%
-废话不多说效果图如下:
+效果图如下:
 
 
 ![gif5新文件.gif](http://upload-images.jianshu.io/upload_images/913244-7c43bcb3b424421b.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
