@@ -1,4 +1,4 @@
-本文采用UITableView+FDTemplateLayoutCell和UIView+FDCollapsibleConstraints 完成
+
 做好了autolayout你就完成了项目的90%
 效果图如下:
 
@@ -7,5 +7,6 @@
 
 
 ps:
-项目中加了图片浏览器, 用了YYKit的demo.
+本文采用UITableView+FDTemplateLayoutCell和UIView+FDCollapsibleConstraints
+完成项目中加了图片浏览器, 用了YYKit的demo.
 gif中完美展示了, 只有照片或者标题或者内容时上下间距都是8的效果, 实现简单,UITableView+FDTemplateLayoutCell也让上下滑动变得顺畅, 不需要再纠结计算于frame的麻烦
